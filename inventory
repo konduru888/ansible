@@ -2,8 +2,7 @@
 [mongodb]
 roboshop-us-dev-mongodb-01.luckyvenky.online
 
-192.168.2.1
-172.35.36.96
+
 
 [mongodb]
 172.31.46.42
