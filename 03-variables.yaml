@@ -2,7 +2,7 @@
   hosts: mongodb
   # This is play level variables
   vars:
-    COURSE: DevOPS
+    COURSE: DevOPS with AWS
     TRAINER: Sivakumar
     DURATION: 110HRS
   tasks: 
